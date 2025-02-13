@@ -7,7 +7,7 @@
 #
 Name     : pypi-legacy_cgi
 Version  : 2.6.2
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/ad/2e/e1860989bc6cfdecba66db37f2f783636b97a1248ac25fbe864b6e931c22/legacy_cgi-2.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ad/2e/e1860989bc6cfdecba66db37f2f783636b97a1248ac25fbe864b6e931c22/legacy_cgi-2.6.2.tar.gz
 Summary  : Fork of the standard library cgi and cgitb modules, being deprecated in PEP-594
